@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4412716-49f5-4405-ac51-d92ad3f763ed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.bsp/sbt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Main.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Question01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Question02.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Question03.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Question04.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Question05.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Question06.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Question07.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Question08.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Question09.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Question10.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/compliment.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/partition.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2dUh4nFHiIpRj7IZ7xMZ89UhVwp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/TeeGooodgood/OneDrive/Documents/programing/university/year 2/term2/prog lang/scala/hw/src/main/scala&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\TeeGooodgood\OneDrive\Documents\programing\university\year 2\term2\prog lang\scala\hw\src\main\scala" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4412716-49f5-4405-ac51-d92ad3f763ed" name="Changes" comment="" />
+      <created>1710068377658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710068377658</updated>
+    </task>
+    <servers />
+  </component>
+</project>
